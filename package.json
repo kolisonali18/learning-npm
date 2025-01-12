@@ -1,0 +1,1 @@
+{"type":"module","name":"npm_crash_","version":"1.0.0","main":"axios.min.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"","license":"ISC","description":"","dependencies":{"axios":"^1.7.9"},"devDependencies":{"parcel":"^2.13.3"}}
